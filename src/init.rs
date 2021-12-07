@@ -6,7 +6,7 @@ use structopt::StructOpt;
 
 use crate::day::Day;
 
-const YEAR: u16 = 0xFFFF;
+const YEAR: u16 = 2021;
 
 #[derive(StructOpt, Debug)]
 pub struct Init {
